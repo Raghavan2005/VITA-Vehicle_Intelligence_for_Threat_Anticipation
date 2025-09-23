@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/TestZone.umap",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/Source/loading.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/Source/intro.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/intro.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/intro_Video_Mat.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/dashboard.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Startup.umap",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/intro_Video.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Map_screen.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Fab/Red_Car/red_car/Materials/initialShadingGroup.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Fab/Red_Car/red_car/StaticMeshes/red_car.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Fab/Red_Car/red_car/Textures/red_car_texture_0.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Fab/Red_Car/red_car/Textures/red_car_texture_1.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Fab/Red_Car/red_car/Textures/red_car_texture_2.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Dash.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/dash_mp_Video_Mat.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/dash_mp.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/dash_mp_Video.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/menutest.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Startup/Startup_dash.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/Videos/vita_loading.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/intro_player.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/intro_player_Video.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/Videos/vita_intro.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/vita_dash_loading.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/vita_dash_intro.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/testplayer.uasset",
+				"F:/TATA/VITA-Vehicle_Intelligence_for_Threat_Anticipation/vita_sys_main/Content/Dashboard_Main/Movies/NewMediaPlayer.uasset"
+			]
+		}
+	]
+}
